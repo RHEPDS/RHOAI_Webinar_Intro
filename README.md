@@ -1,7 +1,7 @@
 
 <img src="logo.png" height="120">
 
-# Introduction to Openshift Datascience
-Introductory Webinar to Openshift Data Science
+# Introduction to Red Hat Openshift AI
+Introductory Webinar to Red Hat Openshift AI
 
-Dec 2022
+May 2024
